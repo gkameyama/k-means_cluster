@@ -21,6 +21,9 @@ release/
 *.zip
 *.exe
 
+#backup
+gkmym03/
+
 # Generated image output
 *.png
 *.jpg
